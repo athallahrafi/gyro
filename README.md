@@ -1,6 +1,6 @@
 # gyro
 <p>install python3 symbus</p>
-<code>sudo apt install python3-smbus</code>
+<code>pip3 install smbus smbus2</code>
 <h3>-------------------</h3>
 <p>cek koneksi i2c</p>
-<code>sudo i2cdetect -y 1</code>
+<code>sudo i2cdetect -r -y 1</code>
