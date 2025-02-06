@@ -1,4 +1,6 @@
 # gyro
+<p>calibration</p>
+<link>https://github.com/RigacciOrg/py-qmc5883l</link>
 <p>install python3 symbus</p>
 <code>pip3 install smbus smbus2</code>
 <h3>-------------------</h3>
