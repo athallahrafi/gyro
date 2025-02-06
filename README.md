@@ -1,4 +1,4 @@
-# gyro
+# compass
 <p>calibration</p>
 <link>https://github.com/RigacciOrg/py-qmc5883l</link>
 <p>install python3 symbus</p>
